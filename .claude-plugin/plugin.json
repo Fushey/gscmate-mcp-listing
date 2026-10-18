@@ -1,0 +1,15 @@
+{
+  "name": "gscmate",
+  "displayName": "GSCmate",
+  "version": "1.0.0",
+  "description": "Connect Claude Code to Google Search Console through GSCmate's hosted, read-only MCP server.",
+  "author": {
+    "name": "MAKER BAY PTE. LTD.",
+    "email": "info@gscmate.com",
+    "url": "https://gscmate.com"
+  },
+  "homepage": "https://gscmate.com",
+  "repository": "https://github.com/Fushey/gscmate-mcp-listing",
+  "keywords": ["google-search-console", "seo", "analytics", "mcp"],
+  "icon": "./assets/logo.png"
+}
