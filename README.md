@@ -1,5 +1,7 @@
 ﻿# GSCmate MCP
 
+[![Listed on HookMCP](https://hookmcp.com/badge.svg)](https://hookmcp.com)
+
 GSCmate is a hosted remote MCP server for Google Search Console. It gives MCP-compatible AI clients read-only access to authorized properties, Search Analytics, sitemap metadata, and URL inspection through Google OAuth 2.1.
 
 - Website: https://gscmate.com/
