@@ -29,7 +29,13 @@ For a client using the `mcp-remote` bridge, use:
 }
 ```
 
-Gemini CLI can add the remote HTTP server with:
+Install GSCmate as a Gemini CLI extension:
+
+```sh
+gemini extensions install https://github.com/Fushey/gscmate-mcp-listing
+```
+
+Authorize your Google account when prompted. You can also add the remote HTTP server directly:
 
 ```sh
 gemini mcp add --transport http gscmate https://gscmate.com/mcp

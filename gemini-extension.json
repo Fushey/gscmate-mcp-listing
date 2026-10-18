@@ -1,11 +1,10 @@
 {
   "name": "gscmate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Read Google Search Console through GSCmate's OAuth 2.1 protected remote MCP server.",
   "mcpServers": {
     "gscmate": {
-      "url": "https://gscmate.com/mcp",
-      "type": "http"
+      "httpUrl": "https://gscmate.com/mcp"
     }
   }
 }
